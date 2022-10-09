@@ -27,25 +27,52 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vickyr78)](https://git.io/streak-stats)
 
 
-## Languages & Tools 💪
+### 42 School Projects
+<div align="center">
 
+<a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
+<a href="https://github.com/mcombeau/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/mcombeau/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/mcombeau/Born2beroot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
+<a href="https://github.com/mcombeau/fract-ol">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
+<a href="https://github.com/mcombeau/pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
+<a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/mcombeau/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
 
+<!-- 
+<a href="https://github.com/mcombeau/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelln.png)</a>
+<a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticen.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfn.png)</a> 
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirtn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containersn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_servicesn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptionn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webservn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_ircn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
+-->
 
-|Html|Css|C|C#|Javascript|Bash|Kubernetes| AWS 
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 200px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">|<img style="width: 200px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png">|<img style="width: 200px" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626431185579x696909144901865600%2F%25231-AWS-File-uploader-Any-size%25281%2529.gif?w=&h=&auto=compress&dpr=1&fit=max">
+</div>
 
-|.NET|Bootstrap|SQL|Git|GitHub|VS Code|Python|Docker
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png">|<img style="width: 200px" src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=6c09b9521b8r2almq2m8f5noc396mgddyom161xj91bbsf0l&rid=giphy.gif&ct=s">|<img style="width: 200px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 200px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">|<img style="width: 200px" src="https://i2.wp.com/foxutech.com/wp-content/uploads/2017/03/docker-images-on-local-disk.gif?fit=900%2C600&ssl=1">
+| Project                                                  |  Language  | Grade| Blog Post                                                                                                                                                                       | Description                                                           |
+|----------------------------------------------------------|------------|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| [libft](https://github.com/mcombeau/libft)               | C          | 125% | :zzz:                                                                                                                                                                           | Create a library of basic functions.                                  |
+| [GNL](https://github.com/mcombeau/get_next_line)         | C          | 125% | [:us: en](https://www.codequoi.com/en/42-get_next_line-project/) [:fr: fr](https://www.codequoi.com/42-get_next_line/)                                                          | Read a single line from a file descriptor, can be used in a loop.     |
+| [ft_printf](https://github.com/mcombeau/ft_printf)       | C          | 125% | :zzz:                                                                                                                                                                           | Recode the standard C library function, printf.                       |
+| [born2beroot](https://github.com/mcombeau/Born2beroot)   | Shell, CLI | 125% | [:us: en](https://www.codequoi.com/en/born2beroot-01-creating-a-debian-virtual-machine/) [:fr: fr](https://www.codequoi.com/born2beroot-01-creer-une-machine-virtuelle-debian/) | Create a virtual machine to host a Debian server.                     |
+| [pipex](https://github.com/mcombeau/pipex)               | C          | 118% | [:us: en](https://www.codequoi.com/en/pipex-reproducing-the-pipe-operator-in-c/) [:fr: fr](https://www.codequoi.com/pipex-reproduire-operateur-pipe-en-c/)                      | Recreate the shell pipe behavior.                                     |
+| [fract'ol](https://github.com/mcombeau/fract-ol)         | C          | 125% | [:us: en](https://www.codequoi.com/en/fract-ol-generating-fractals-in-c/) [:fr: fr](https://www.codequoi.com/fract-ol-generer-des-fractales-en-c/)                              | Create a graphical program to generate fractals.                      |
+| [push_swap](https://github.com/mcombeau/push_swap)       | C          | 100%  | [:us: en](https://www.codequoi.com/en/push_swap-efficient-positional-sorting-algorithm/) [:fr: fr](https://www.codequoi.com/push_swap-algorithme-de-tri-positionel-efficace/)   | Sort a list of random integers in the least amount of moves possible. |
+| [philosophers](https://github.com/mcombeau/philosophers) | C          | 125%  | [:us: en](https://www.codequoi.com/en/philosophers-01-threads-and-mutexes/) [:fr: fr](https://www.codequoi.com/philosophers-01-threads-et-mutex/)                               | Solve the dining philosophers problem with semaphores.                |
+| [minishell](https://github.com/mcombeau/minishell)       | C          | WIP  | :zzz:                                                                                                                                                                           | Create a minitature shell program. Team project.                      |
+| [net_practice](https://github.com/mcombeau/net_practice) | N/A        | TBD  | :zzz:                                                                                                                                                                           | Solve IP addressing and network issues in a training interface.       |
+| [Cpp Modules](https://github.com/mcombeau/Cpp_Modules)   | C++        | WIP  | :zzz:                                                                                                                                                                           | Create a series of small C++ programs.                                |
 
-
-|Jenkins|Vagrant|Linux|GitLab CI/CD|Prometheus|Grafana|Ansible|Terraform
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png">|<img style="width: 200px" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png">|<img style="width: 200px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png">|<img style="width: 200px" src="https://projects.task.gda.pl/uploads/-/system/project/avatar/321/grafana_logo.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png">|<img style="width: 200px" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/hashicorp-terraform.png?itok=V4FTAS7g">
-
-
-</details>
 
 <!---
 vickyr78/vickyr78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
