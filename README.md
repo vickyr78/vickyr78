@@ -24,44 +24,17 @@ This is the place where I backup my projects and break some stuff down :bowtie:
   </p>
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vickyr78)](https://git.io/streak-stats)
 
 
 ### 42 School Projects
 <div align="center">
 
-<a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/mcombeau/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
-<a href="https://github.com/mcombeau/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
-<a href="https://github.com/mcombeau/Born2beroot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
-<a href="https://github.com/mcombeau/fract-ol">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
-<a href="https://github.com/mcombeau/pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
-<a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
-<a href="https://github.com/mcombeau/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
-
-<!-- 
-<a href="https://github.com/mcombeau/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelln.png)</a>
-<a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticen.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfn.png)</a> 
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirtn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containersn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_servicesn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptionn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webservn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_ircn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
--->
 
 </div>
 
 | Project                                                  |  Language  | Grade| Blog Post                                                                                                                                                                       | Description                                                           |
 |----------------------------------------------------------|------------|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-|<a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a> [libft](https://github.com/mcombeau/libft)               | C          | 125% | :zzz:                                                                                                                                                                           | Create a library of basic functions.                                  |
+| [libft](https://github.com/mcombeau/libft)               | C          | 125% | :zzz:                                                                                                                                                                           | Create a library of basic functions.                                  |
 | [GNL](https://github.com/mcombeau/get_next_line)         | C          | 125% | [:us: en](https://www.codequoi.com/en/42-get_next_line-project/) [:fr: fr](https://www.codequoi.com/42-get_next_line/)                                                          | Read a single line from a file descriptor, can be used in a loop.     |
 | [ft_printf](https://github.com/mcombeau/ft_printf)       | C          | 125% | :zzz:                                                                                                                                                                           | Recode the standard C library function, printf.                       |
 | [born2beroot](https://github.com/mcombeau/Born2beroot)   | Shell, CLI | 125% | [:us: en](https://www.codequoi.com/en/born2beroot-01-creating-a-debian-virtual-machine/) [:fr: fr](https://www.codequoi.com/born2beroot-01-creer-une-machine-virtuelle-debian/) | Create a virtual machine to host a Debian server.                     |
@@ -73,7 +46,8 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 | [net_practice](https://github.com/mcombeau/net_practice) | N/A        | TBD  | :zzz:                                                                                                                                                                           | Solve IP addressing and network issues in a training interface.       |
 | [Cpp Modules](https://github.com/mcombeau/Cpp_Modules)   | C++        | WIP  | :zzz:                                                                                                                                                                           | Create a series of small C++ programs.                                |
 
-
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vickyr78)](https://git.io/streak-stats)
 <!---
 vickyr78/vickyr78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
